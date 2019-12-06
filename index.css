@@ -52,6 +52,7 @@ html, body {
   .page-content a {
             color: #6f717d;
    text-decoration:none
+     font-weight:bold;
   }
 
 h1 {
