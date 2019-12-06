@@ -39,28 +39,27 @@ html, body {
   }
 
     .main-nav a:hover {
-      bottom: 20px;
+      bottom: 50px;
     }
 
 .page-content {
    margin-left: 200px;
-  width: 800px
+  width: 800px;
 }
 
 
 
   .page-content a {
-            color: #6f717d;
-   text-decoration:none
-     font-weight:bold;
+    color: #6f717d;
+    text-decoration: none;
+   
   }
 
 h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
-  text-decoration: underline;
-  border-bottom: 1px solid #efefef;
+  border-bottom: 2px  solid;
 }
 
 h2 {
@@ -87,8 +86,8 @@ h2 {
       transition: all 300ms ease;
       left: 0px;
       position: none;
-      line-height: 0%;
-      bottom: -21px;
+      line-height: 0%; 
+      bottom: -21px; 
     }
 
       .page-nav ul li:hover {
