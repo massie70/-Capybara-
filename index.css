@@ -72,6 +72,9 @@ h2 {
 
 
 .page-nav {
+  bottom: -150px;
+  position:relative;
+  left: -180px;
  
 }
 
